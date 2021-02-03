@@ -1,6 +1,6 @@
 ### Hello 👋, I am Shipra
 
-I am an engineer at [Oga](https://oga.fit) based in Bangalore, India.
+I am a backend and devOps engineer based in Bangalore, India.
 
 ## 📞 Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-shiprashalini-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/shiprashalini/)
